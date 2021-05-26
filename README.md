@@ -13,5 +13,5 @@
 командам Git с примерами. Уметь кратко ответить на вопросы о предназначении
 основных команд Git.
 ### Литература:
-* [Книга1](https://git-scm.com/book/ru/v1)
-* [Книга2](https://www.atlassian.com/ru/git)
+* [Книга о Гите](https://git-scm.com/book/ru/v1)
+* [Сайт о Гите](https://www.atlassian.com/ru/git)
